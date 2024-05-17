@@ -1,2 +1,4 @@
 # Raiz
 *.txt
+
+!hola.txt
